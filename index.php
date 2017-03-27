@@ -30,7 +30,7 @@ setcookie("MySecretLittleHelper",$value, time()+3600*24);
 
 
 <p>
-Hvor mange mokai Isabel drikke?
+Hvor mange mokai kan Isabel drikke?
 <?php echo $_COOKIE['MySecretLittleHelper']; ?>
 </p>
 
