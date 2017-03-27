@@ -34,6 +34,7 @@ Hvem drikker flest mokai?:
 <?php echo $_COOKIE['MySecretLittleHelper']; ?>
 </p>
 
+<?php include ("footer.php") ?>
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 	<script src="../js/jquery-1.11.3.min.js"></script>
 

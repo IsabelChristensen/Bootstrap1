@@ -1,7 +1,7 @@
 <!--Footer-->
 <footer><div class="container">
 <div class="row">
-		<a href="http://www.profil-rejser.dk/arktiske-omraader/svalbard/rejser/rundt-om-spitsbergen"><img src="images/profilrejser_logo.png" alt="" class="col-xs-2"><img src="images/logohvid.png" alt="" class="col-xs-1"></a>
+		<a href="http://www.profil-rejser.dk/arktiske-omraader/svalbard/rejser/rundt-om-spitsbergen"></a>
 		<div class="col-xs-2"><h4>Tlf.: +45 12345678</h4>
 <h4>E-mail: profilrejser@mail.dk</h4></div>
 		
